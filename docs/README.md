@@ -14,6 +14,8 @@ Throughout the project lifecycle, teams maintain key artifacts including the Pro
 
 ## Documentation Index
 
+### Core Process Guides
+
 Explore the complete OctoAcme project management documentation:
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** — Introduction to OctoAcme's approach, principles, roles, and lifecycle
@@ -25,17 +27,33 @@ Explore the complete OctoAcme project management documentation:
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capturing learnings and converting them into actionable improvements
 - **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed responsibilities and goals for Developers, Product Managers, and Project Managers
 
+### Templates & Checklists
+
+Practical templates and checklists for day-to-day project management:
+
+- **[Process Overview](project-management/process-overview.md)** — End-to-end workflow from intake through release
+- **[Definition of Done](project-management/definition-of-done.md)** — Quality criteria for completed work
+- **[Decision Log / ADRs](project-management/decision-log.md)** — Architecture Decision Records process and template
+- **[Meeting Notes Template](project-management/meeting-notes-template.md)** — Structured format for capturing meeting outcomes
+- **[Status Update Template](project-management/status-update-template.md)** — Weekly/monthly project status reporting
+- **[Release Checklist](project-management/release-checklist.md)** — Pre-release, deployment, and post-release validation
+- **[Triage Playbook](project-management/triage-playbook.md)** — Issue prioritization, severity levels, and escalation paths
+- **[RACI Template](project-management/ownership-raci-template.md)** — Clarify roles and responsibilities
+- **[Onboarding & Handoff Checklist](project-management/onboarding-handoff-checklist.md)** — Team member onboarding and knowledge transfer
+
 ## Quick Start
 
-**New to a project?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach, then review [Roles & Personas](octoacme-roles-and-personas.md) to clarify responsibilities.
+**New to a project?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach, then review [Roles & Personas](octoacme-roles-and-personas.md) to clarify responsibilities. Use the [Onboarding Checklist](project-management/onboarding-handoff-checklist.md) to track your ramp-up.
 
-**Starting a new project?** Follow the [Project Initiation](octoacme-project-initiation.md) guide to create your one-pager and stakeholder alignment, then move to [Project Planning](octoacme-project-planning.md) to build your backlog.
+**Starting a new project?** Follow the [Project Initiation](octoacme-project-initiation.md) guide to create your one-pager and stakeholder alignment, then move to [Project Planning](octoacme-project-planning.md) to build your backlog. Set up your [RACI matrix](project-management/ownership-raci-template.md) to clarify ownership.
 
-**In active delivery?** Refer to [Execution & Tracking](octoacme-execution-and-tracking.md) for workflows and quality standards, and [Risk Management & Communication](octoacme-risks-and-communication.md) for stakeholder updates.
+**In active delivery?** Refer to [Execution & Tracking](octoacme-execution-and-tracking.md) for workflows and quality standards, and [Risk Management & Communication](octoacme-risks-and-communication.md) for stakeholder updates. Use the [Definition of Done](project-management/definition-of-done.md) and [Status Update Template](project-management/status-update-template.md).
 
-**Preparing for release?** Check the [Release & Deployment](octoacme-release-and-deployment.md) guide for pre-release requirements and deployment checklists.
+**Preparing for release?** Check the [Release & Deployment](octoacme-release-and-deployment.md) guide for pre-release requirements and the detailed [Release Checklist](project-management/release-checklist.md).
 
 **After a milestone or sprint?** Use the [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) guide to capture learnings and action items.
+
+**Managing issues?** Follow the [Triage Playbook](project-management/triage-playbook.md) for prioritization and escalation.
 
 ---
 
