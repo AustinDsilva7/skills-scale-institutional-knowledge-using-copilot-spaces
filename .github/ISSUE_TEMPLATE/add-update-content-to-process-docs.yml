@@ -17,6 +17,15 @@ body:
         - octoacme-release-and-deployment.md
         - octoacme-retrospective-and-continuous-improvement.md
         - octoacme-roles-and-personas.md
+        - project-management/process-overview.md
+        - project-management/definition-of-done.md
+        - project-management/decision-log.md
+        - project-management/meeting-notes-template.md
+        - project-management/status-update-template.md
+        - project-management/release-checklist.md
+        - project-management/triage-playbook.md
+        - project-management/ownership-raci-template.md
+        - project-management/onboarding-handoff-checklist.md
         - <new document>
     validations:
       required: true
